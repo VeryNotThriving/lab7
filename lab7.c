@@ -6,8 +6,6 @@ struct switches{
 };
 
 
-void printArray(int arr[], int size);
-
 // A function to implement bubble sort
 struct switches*  bubbleSort(int arr[], int n)
 {
